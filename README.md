@@ -54,7 +54,9 @@ The analysis of the election show that:
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
     - Diana DeGette won the election, her vote count was 272,892, her percentage of the total votes was 73.8%
 
-- Terminal Results ![Terminal_Resuluts](/Resources/Terminal_Results.png)
+- Terminal Results 
+
+![Terminal_Resuluts](/Resources/Terminal_Results.png)
 
 - Text Results
 
