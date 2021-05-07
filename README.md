@@ -68,4 +68,4 @@ The analysis of the election show that:
         1. The population of the county
         2. Number of valid votes and invalid votes.
     If it is based on the the populion, we should re-think about votes. We can work on it, by dividing three parts. For example, the population for three cities are 500k, 5 millions, 100k, then we could based on the population to do weight number for votes. 
-    If it is based on the second reason, we should think about why there were so many unvlid votes in Charles Casper Stockham and Raymon Anthony Doane.
+    If it is based on the second reason, we should think about why there were so many unvalid votes in Charles Casper Stockham and Raymon Anthony Doane.
