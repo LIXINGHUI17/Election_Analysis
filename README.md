@@ -56,11 +56,11 @@ The analysis of the election show that:
 
 - Terminal Results 
 
-![Terminal_Resuluts](/Resources/Terminal_Results.png)
+![Terminal_Resuluts](/Resources/Terminal_Result.png)
 
 - Text Results
 
-![Text_Resuluts](/Resources/Text_Results.png)
+![Text_Resuluts](/Resources/Text_Result.png)
 
 ## Challenge Summary
 ### Election-Audit Summary
