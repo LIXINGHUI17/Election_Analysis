@@ -1,5 +1,5 @@
 # Election_Anlysis
-[PyPoll](PyPoll.py)
+[PyPoll_Challenge](PyPoll_Challenge.py)
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local
@@ -55,10 +55,10 @@ The analysis of the election show that:
     - Diana DeGette won the election, her vote count was 272,892, her percentage of the total votes was 73.8%
 
 - Terminal Results
-  ![Terminal_Resuluts](/Resources/Terminal Results.png)
+  ![Terminal_Resuluts](/Resources/Terminal_Results.png)
 
 - Text Results
-  ![Text_Resuluts](/Resources/Text Results.png)
+  ![Text_Resuluts](/Resources/Text_Results.png)
 
 ## Challenge Summary
 ### Election-Audit Summary
